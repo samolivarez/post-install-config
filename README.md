@@ -25,6 +25,8 @@ This guide outlines the post-install configuration of the open-source help desk 
 - Set the "User" settings
 - Addition of new Agent
 - Create "Users"
+- Create SLA Plans
+- Create "Help Topics"
 
 <h2>Configuration Steps</h2>
 
@@ -113,15 +115,23 @@ Next, is the creation of a SEV-B ticket priority status plan which sets the time
 <img src="https://i.imgur.com/Fy4rQL7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, is the creation of a SEV-C ticket priority status plan which sets the ticket priority timeframe for resolution at 8hrs AND only takes into account a businesses standard business hours which are typically Monday-Friday 8-5pm Eastern Standard time(US).
+Next, is the creation of a SEV-C ticket priority status plan which sets the ticket priority timeframe for resolution at 8hrs AND only takes into account a business's standard business hours of operation which are typically Monday-Friday 8-5 pm Eastern Standard time(US).
 </p>
 <br /># post-install-config
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eDzpVjT.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The above image shows the successful creation of SEV-A, SEV-B and SEV-C Plans!
+</p>
+<br /># post-install-config
+
+<p>
+<img src="https://i.imgur.com/jvrjK29.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, the aove image shows the creation of "Help Topics" and their respective levels of priority. "Help Topics" help streamline end-user's help desk experience and to ensure each ticket's proper assignment and prompt response time. 
 </p>
 <br /># post-install-config
 
