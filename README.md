@@ -20,7 +20,7 @@ This guide outlines the post-install configuration of the open-source help desk 
 
 - Create osTicket roles from admin panel
 - Set permissions for roles created
-- Item 3
+- Create Departments
 - Item 4
 - Item 5
 
@@ -30,7 +30,7 @@ This guide outlines the post-install configuration of the open-source help desk 
 <img src="https://i.imgur.com/WQs0LyZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Working from Virtual Machine remote access thru Microsoft Azure, the user will work from their osTickt admin panel to begin creating roles. In the image above a new "Supreme Admin" role is created.
+Working from Virtual Machine remote access thru Microsoft Azure, the Admin will work from their osTickt admin panel to begin creating roles. In the image above a new "Supreme Admin" role is created.
 </p>
 <br />
 
@@ -38,15 +38,15 @@ Working from Virtual Machine remote access thru Microsoft Azure, the user will w
 <img src="https://i.imgur.com/c6PeVB4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, the user will set "permissions" for the newly created role.
+Next, the Admin will set "permissions" for the newly created role.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vI7FupI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, the Admin will begin creating "Departments" such as "System Administration" as image above shows.
 </p>
 <br /># post-install-config
 
